@@ -1,0 +1,24 @@
+
+input{
+    border-radius: 5px;
+  }
+  h1{
+    margin:15px;
+    text-decoration-color: antiquewhite;
+    
+  }
+  input[type="submit"]{
+    background-color: greenyellow;
+    padding: 0px 20px 0px 20px;
+  }
+  button{
+    background-color:red;
+    color: blue;
+    padding:2px;
+    border-radius: 3px;
+  }
+  .Add-button{
+    background-color: brown;
+    font-display: block;
+  }
+  
